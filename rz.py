@@ -712,20 +712,3 @@ CLEAR   ► CLEAR TERMINAL
                 pass
 
 
-def login():
-    clear()
-    user = "rzca"
-    passwd = "rzca"
-    username = input("⚡ Username: ")
-    password = getpass.getpass(prompt='⚡ Password: ')
-    if username != user or password != passwd:
-        print("")
-        print("⚡ Haizzz, you're so cute...")
-        sys.exit(1)
-    elif username == user and password == passwd:
-        print("⚡ Welcome to RZCA DDoS-V2")
-        time.sleep(0.3)
-        ascii_vro()
-        main()
-
-login()
