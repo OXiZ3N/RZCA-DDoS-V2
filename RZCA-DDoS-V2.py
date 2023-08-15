@@ -62,7 +62,7 @@ def ascii_vro():
     clear()
 
 def si():
-    print('         \x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mRZCA \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to RZCA-DDoS-V2 \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: OXiZ3N | C4RB00N \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mContact :- https://t.me/OXiZ3N'
+    print('\x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mRZCA \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to RZCA-DDoS-V2 \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: OXiZ3N | C4RB00N \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mContact :- https://t.me/OXiZ3N')
     print("")
 
 def tools():
