@@ -191,7 +191,7 @@ def amp_games():
 
 
 def menu():
-    sys.stdout.write(f"         \x1b]2;ZxC C2 --> Stars: [{bots}] | Online Users: [1] | Methods: [25] | Bypass: [10] | Amps: [1]\x07")
+    sys.stdout.write(f"         \x1b]2;RZCA-DDoS-V2 --> Stars: [{bots}] | Online Users: [1] | Methods: [25] | Bypass: [10] | Amps: [1]\x07")
     clear()
     print('\x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mRZCA \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to RZCA-DDoS-V2 \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: OXiZ3N | C4RB00N \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mContact :- https://t.me/OXiZ3N')
     print("")
