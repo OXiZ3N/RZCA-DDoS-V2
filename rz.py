@@ -712,7 +712,6 @@ CLEAR   ► CLEAR TERMINAL
                 pass
 def login():
     clear()
-        print("")
         print("⚡ Haizzz, you're so cute...")
         sys.exit(1)
         print("⚡ Welcome to RZCA DDoS-V2")
