@@ -10,16 +10,6 @@
  ## Logs</br>
  - NEW SPECIAL METHODS!
  - NEW STRESS METHOD!
- 
-## Screenshot
-
-# Tree
-* [Read now pls](#README)
-* [Info](#Info)
-* [Setup](#Setup)
-* [Credits](#Credits)
-* [T.O.S](#TOS)
-* [Contact](#Contact)
 
 # README ♥️
 Thank you for using, please help me press a star button, thank you very much.<br>
