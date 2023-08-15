@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 RED ZONE CYBER ARMY DDoS-V2 - DDoS Panel 🚀
+# 🚀 RED ZONE CYBER ARMY DDoS-V2 Panel 🚀
 
 ## Language</br>
 
