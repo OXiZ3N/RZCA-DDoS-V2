@@ -209,8 +209,13 @@ def menu():
  Exe :- 
  crash http://example.com GET
  httpflood http://example.com 15000 get 69
- httpget http://example.com
- hyper http://example.com 60
+ destroy 0.0.0.0 80 50000
+ ovh-raw GET 0.0.0.0 80 50000 8500
+ udp 0.0.0.0 80
+ tcp GET 0.0.0.0 80 50000 8500
+ nfo-killer 0.0.0.0 80 10000 50000
+ god 1.1.1.1 80 50000
+ cf-bypass http://example.com 50000 1250
 
 """)
 
